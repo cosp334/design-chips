@@ -1,0 +1,25 @@
+{
+    "siteName": "design-chips",
+    "src":"data/data.md",        
+    "category":[
+        "coding",
+        "design",
+        "vba",
+        "pc"
+    ],
+    "getElement": [
+        "url",
+        "index",
+        "title"
+    ],
+    "metaSrc": "data/info.json",
+    "webComponent": [
+        "css",
+        "img",
+        "js",
+        "template"
+    ],
+    "default": {
+        "secret": true
+    }
+}
